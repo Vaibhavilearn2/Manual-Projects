@@ -8,11 +8,11 @@ This Repository contains project details of banking domain .
   
   Project name : SunTrust Banks
   Client: Robinson Humphrey (US)
- # Description:
+ ## Description:
 
 SunTrust Bank is poised to create value for its customers by leveraging on our competencies and a team of highly motivated staff, we work tirelessly to develop & provide a broad range of unique financial services and products to consumers, small business, corporations, governments and institutions that will positively impact their business.
 
-# Responsibilities:
+## Responsibilities:
 - Participated in the Test case review meetings.
 - Execute  test cases
 - Understanding the requirements
