@@ -7,6 +7,7 @@ This Repository contains project details of banking domain .
 -  Integration Planning 
   
   Project name : SunTrust Banks
+  
   Client: Robinson Humphrey (US)
  ## Description:
 
