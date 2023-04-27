@@ -1,5 +1,5 @@
 # Manual-Projects
-This pepository contains project details of banking domain . 
+This Repository contains project details of banking domain . 
 ## Project 1 
 - TestPlan
 - Test Cases
